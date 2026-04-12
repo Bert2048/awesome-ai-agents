@@ -137,6 +137,8 @@ AI agents and tools focused on software development, code generation, and DevOps
 - [Greywall](https://github.com/GreyhavenHQ/greywall): A secure sandbox with filesystem isolation and network control for AI coding agents. ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/GreyhavenHQ/greywall?style=plastic&color=lightgrey&logo=github)
 - [ReviewCerberus](https://github.com/Kirill89/reviewcerberus): An open-source AI code reviewer focusing on security, performance, and code quality. ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/Kirill89/reviewcerberus?style=plastic&color=lightgrey&logo=github)
 - [Hivemoot Colony](https://github.com/hivemoot/colony): A decentralized governance platform for AI agents to vote on and ship software features. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/colony?style=plastic&color=lightgrey&logo=github)
+- **[toprank](https://github.com/nowork-studio/toprank)**: Open-source Claude Code plugin providing 9 SEO and Google Ads skills. ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic)
+
 
 ## Automation & Workflow
 
