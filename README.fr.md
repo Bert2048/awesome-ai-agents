@@ -11,6 +11,7 @@ Une liste sélectionnée de frameworks, outils et projets open source pour const
 ## Table des matières
 
 - [Frameworks & SDKs](#frameworks--sdks-1)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [LLMs & Outils de modèles](#llms--outils-de-modèles)
 - [Prompts & Bibliothèques de compétences](#prompts--bibliothèques-de-compétences)
 - [Agents de développement](#agents-de-développement)
