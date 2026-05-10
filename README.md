@@ -88,6 +88,7 @@ The fuel for building AI agents: Large language models, providers, and local inf
 - [Hugging Face](https://huggingface.co/): The essential infrastructure for the machine learning community to host and discover models and datasets.
 - [ModelScope](https://modelscope.cn/): A next-generation collaborative platform for open-source AI models and datasets from Alibaba Cloud.
 - [LM Studio](https://lmstudio.ai/): A user-friendly desktop application for discovering, downloading, and running local LLMs.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## Prompts & Skill Libraries
 
