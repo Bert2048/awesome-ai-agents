@@ -215,6 +215,7 @@
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix): 開源的 Agent 測試、評估和可觀測性庫。 ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=plastic&color=lightgrey&logo=github)
 - [Manifest](https://github.com/mnfst/manifest): AI 智能體的開源即時成本可觀測平台。追蹤 Token、成本、消息和模型使用情況，提供本地優先儀表板。支援 28+ LLM 模型、OTLP 攝入、自托管。 ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=plastic&color=lightgrey&logo=github)
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX): 構建自我進化的 AI 智能體生態系統，提供自動化評估和進化 Agentic 工作流的框架。 ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=plastic&color=lightgrey&logo=github)
+- [Agent QA](https://github.com/vostride/agent-qa): 一個原始碼可用的應用品質保證 CLI 與 MCP 伺服器，可用自然語言執行 Web 與行動端測試；它測試應用，而非代理行為。 ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=plastic&color=lightgrey&logo=github)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): 開源 RAG 評估框架，無需標準答案，可用於評估連接到 AI Agent 的 RAG 工具性能（Agentic RAG）。
 - [Voice Lab](https://github.com/saharmor/voice-lab): 全面的語音 Agent 測試和評估框架，支援跨語言模型、提示詞和 Agent 角色的評估。 ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=plastic&color=lightgrey&logo=github)
 - [voicetest](https://github.com/voicetestdev/voicetest): 語音 Agent 的開源測試工具，支援 Retell、VAPI、Bland 和 LiveKit。運行自主模擬並使用 LLM 評判器評估。 ![GitHub Repo stars](https://img.shields.io/github/stars/voicetestdev/voicetest?style=plastic&color=lightgrey&logo=github)
