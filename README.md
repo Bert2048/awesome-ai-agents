@@ -232,6 +232,7 @@ Platforms and tools for agent deployment, sandboxing, and security, sorted by Gi
 
 - [e2b](https://github.com/e2b-dev/e2b): An open-source platform for building and securely deploying virtual developer agents. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 - [AgentField](https://github.com/Agent-Field/agentfield): Production-ready infrastructure for AI backends featuring Kubernetes orchestration and Okta identity management. ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/agentfield?style=plastic&color=lightgrey&logo=github)
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node): Local-first agent payment runtime with stdio MCP, x402 offer inspection, bounded preparation and receipt recovery on Apple Silicon macOS (Node 24). ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ## Game & Simulation
 
